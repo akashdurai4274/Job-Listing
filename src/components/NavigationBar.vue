@@ -14,7 +14,7 @@ const isActiveLink = (routePath) => {
       <div class="flex items-center justify-between h-20 mx-10 ">
         <RouterLink class="flex items-center space-x-3">
           <Logo />
-          <p class="hidden text-2xl font-semibold text-white font-style lg:block md:block">SkyBrook Jobs</p>
+          
         </RouterLink>
         <div class="space-x-3 nav">
           <RouterLink to="/"><span
